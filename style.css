@@ -12,3 +12,18 @@ img {
 .text {
   text-align: justify;
 }
+body {
+  font-family: "oculi-display", sans-serif;
+font-weight: 100;
+font-style: normal;
+}
+h1 {
+  font-family: "oculi-display", sans-serif;
+font-weight: 900;
+font-style: normal;
+}
+h2 {
+  font-family: "oculi-text", sans-serif;
+font-weight: 700;
+font-style: italic;
+}
